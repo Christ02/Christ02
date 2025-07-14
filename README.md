@@ -39,14 +39,6 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 
 ---
 
-## 🚀 Selected Projects  
-- **Fithub**: MERN-stack web app for calorie tracking, sleep and exercise logging.  
-- **Real-Time Fraud Detection**: Lambda architecture on GCP (Pub/Sub → Dataflow → BigQuery) to flag anomalous transactions.  
-- **Profitability Dashboard**: R/Flexdashboard solution for product margin analysis across store locations.  
-- **Credit Risk Model**: Logistic regression and tree-based ensemble to predict default, with ROC/AUC evaluation.
-
----
-
 ## 🏆 Certifications & Awards  
 - **Bloomberg Market Concepts (BMC)**  
 - **Registered Scrum Master**
@@ -56,6 +48,16 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 - **Coursera: Machine Learning with Python(IBM)**
     ([Credential](https://www.coursera.org/account/accomplishments/verify/B0GAULVX443D))
 
+---
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=Christ02&show_icons=true&theme=dark"
+    alt="GitHub Stats" />
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ02&layout=compact&theme=dark"
+    alt="Top Languages" />
+</p>
 ---
 
 ## 📫 Contact  

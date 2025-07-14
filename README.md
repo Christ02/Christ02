@@ -49,8 +49,9 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 
 ## 🏆 Certifications & Awards  
 - **Bloomberg Market Concepts (BMC)**  
-- **Google Cloud Certified – Professional Data Engineer**  
+- **Registered Scrum Master**  
 - **Coursera: Machine Learning by Andrew Ng**
+- **Coursera: Machine Learning with Python(IBM)**
 
 ---
 

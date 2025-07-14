@@ -5,14 +5,13 @@
 ---
 
 ## 🧑‍🎓 About Me  
-I’m passionate about data-driven decision-making, free markets, and defending individual liberty. Avid coffee enthusiast, Real Madrid supporter, and tennis fan. I strive to apply quantitative methods and machine learning to real-world financial problems :contentReference[oaicite:0]{index=0}.
+I’m passionate about data-driven decision-making, free markets, and defending individual liberty. Avid coffee enthusiast, Real Madrid supporter, and tennis fan. I strive to apply quantitative methods and machine learning to real-world financial problems.
 
 ---
 
 ## 🎓 Education  
 - **Universidad Francisco Marroquín** (2021 – Present)  
   — B.Sc. in Computer Science, specialization in Data Science & Finance  
-  — GPA: 4.2/5.0 (top 10%)
 
 ---
 
@@ -22,7 +21,7 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 - **Finance & Risk:** Valuation · Credit Risk Modeling · RAROC/RORAC · Monte Carlo  
 - **DevOps:** Docker · Kubernetes · Terraform · GitHub Actions · CI/CD  
 - **Cloud Platforms:** Google Cloud Platform · AWS · Azure  
-- **Visualization:** Matplotlib · Plotly · Tableau · Power BI  
+- **Visualization:** Matplotlib · Plotly · Tableau · Power BI  · GGplot
 - **Big Data & Streaming:** Apache Kafka · Apache Airflow · Dataflow
 
 ---
@@ -56,11 +55,6 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 ---
 
 ## 📫 Contact  
-- ✉️ christian.barrios@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/christian-barrios)  
-- 🐦 [Twitter @Christ02](https://twitter.com/Christ02)  
-
----
-
-> _“A robust README is the mission statement of your code—write it first.”_  
-> — Tom Preston-Werner, GitHub co-founder :contentReference[oaicite:1]{index=1}
+- ✉️ barriosc31@gmail.com
+- ✉️ christianbarrios@ufm.edu
+- 🔗 [LinkedIn](https://www.linkedin.com/in/christian-barrios-/)  

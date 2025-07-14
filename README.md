@@ -50,14 +50,29 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 
 ---
 <!-- GitHub Stats Cards -->
-<p align="center">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Christ02&show_icons=true&theme=dark"
-    alt="GitHub Stats" />
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ02&layout=compact&theme=dark"
-    alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Christ02&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;include_all_commits=true&amp;card_width=320&amp;border_radius=10"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ02&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;card_width=200&amp;border_radius=10"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=Christ02&amp;theme=dark&amp;hide_border=true&amp;border_radius=10"
+        alt="🔥 Streak Stats"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 

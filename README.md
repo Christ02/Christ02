@@ -50,11 +50,11 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 ## 🏆 Certifications & Awards  
 - **Bloomberg Market Concepts (BMC)**  
 - **Registered Scrum Master**
-    ([Ver credencial](https://s3.amazonaws.com/scruminc-certs/RSM-6473905))  
+    ([Credential](https://s3.amazonaws.com/scruminc-certs/RSM-6473905))  
 - **Coursera: Machine Learning by Andrew Ng**
-    ([Ver credencial](https://www.coursera.org/account/accomplishments/specialization/certificate/PV42F90VKJXY))  
+    ([Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/PV42F90VKJXY))  
 - **Coursera: Machine Learning with Python(IBM)**
-    ([Ver credencial](https://www.coursera.org/account/accomplishments/verify/B0GAULVX443D))
+    ([Credential](https://www.coursera.org/account/accomplishments/verify/B0GAULVX443D))
 
 ---
 

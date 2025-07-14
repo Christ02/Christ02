@@ -29,7 +29,7 @@ I’m passionate about data-driven decision-making, free markets, and defending 
 ## 🧰 Tools & Technologies  
 | Category          | Tools & Frameworks                                     |
 |-------------------|--------------------------------------------------------|
-| **Machine Learning** | TensorFlow · PyTorch · Scikit-Learn · XGBoost          |
+| **Machine Learning** | TensorFlow · PyTorch · Scikit-Learn          |
 | **Data Engineering** | Apache Spark · Airflow · Kafka · BigQuery              |
 | **Infrastructure**   | Docker · Kubernetes · Terraform · Helm                 |
 | **CI/CD & Automation** | GitHub Actions · Jenkins · GitLab CI/CD               |

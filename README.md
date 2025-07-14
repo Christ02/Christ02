@@ -58,6 +58,7 @@ I’m passionate about data-driven decision-making, free markets, and defending 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ02&layout=compact&theme=dark"
     alt="Top Languages" />
 </p>
+
 ---
 
 ## 📫 Contact  

@@ -89,10 +89,10 @@ I leverage quantitative methods and machine learning to tackle real-world financ
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img width="200"
+  <img width="400"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ02&layout=compact&theme=dark&hide_border=true&border_radius=10"
        alt="Top Languages" />
-  <img width="200"
+  <img width="400"
        src="https://github-readme-streak-stats.herokuapp.com?user=Christ02&theme=dark&hide_border=true&border_radius=10"
        alt="Streak Stats" />
 </p>

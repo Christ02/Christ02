@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍🎓 About Me  
-I leverage quantitative methods and machine learning to tackle real-world financial challenges. I champion individual liberty and free markets. Outside academia, I enjoy specialty coffee, Real Madrid matches, and tennis tournaments.
+I leverage quantitative methods and machine learning to tackle real-world financial challenges. Outside academia, I enjoy specialty coffee, Real Madrid matches, and tennis tournaments.
 
 ---
 

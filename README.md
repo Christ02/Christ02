@@ -103,8 +103,3 @@ I leverage quantitative methods and machine learning to tackle real-world financ
 - 📧 barriosc31@gmail.com  
 - 📧 christianbarrios@ufm.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/christian-barrios-/)
-
----
-
-> “Write your README before your code.”  
-> — Tom Preston-Werner, GitHub Co-founder  

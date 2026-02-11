@@ -189,12 +189,6 @@ me.say_hi()
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💬 Let's Connect & Collaborate
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always excited to collaborate on</b> data science projects, quantitative finance solutions, and innovative ML applications!</em>
-
-<br>
-
 ### 📫 Reach Out
 
 <a href="mailto:barriosc31@gmail.com">
@@ -218,8 +212,3 @@ me.say_hi()
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-**⭐ From [Christ02](https://github.com/Christ02)**
-
-</div>

@@ -3,16 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Christian+Barrios;Data+Scientist+%7C+Quantitative+Analyst;Machine+Learning+Engineer" alt="Typing SVG" />
 
 **Bachelor of Science in Computer Science**  
-Universidad Francisco Marroquín | 2021–Present  
+Universidad Francisco Marroquín
 *Specializing in Data Science & Financial Engineering*
 
 <br>
-
-[![Email](https://img.shields.io/badge/barriosc31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barriosc31@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-barrios-/)
-[![UFM Mail](https://img.shields.io/badge/UFM_Mail-00457C?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:christianbarrios@ufm.edu)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 

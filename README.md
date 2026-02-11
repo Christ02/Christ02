@@ -21,16 +21,9 @@ class ChristianBarrios:
         self.focus = ["Machine Learning", "Financial Engineering", "Big Data"]
         self.currently_learning = ["Deep Reinforcement Learning", "MLOps at Scale"]
         
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Specialty Coffee",
-            "work": "💻 Building ML Models",
-            "evening": "⚽ Real Madrid Matches",
-            "weekend": "🎾 Tennis"
-        }
     
     def say_hi(self):
-        print("Let's build something amazing with data!")
+        print("Hi!")
 
 me = ChristianBarrios()
 me.say_hi()
